@@ -1,0 +1,566 @@
+[
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/acton-2601",
+        "text": "Acton, 2601"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/ainslie-2602",
+        "text": "Ainslie, 2602"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/amaroo-2914",
+        "text": "Amaroo, 2914"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/aranda-2614",
+        "text": "Aranda, 2614"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/banks-2906",
+        "text": "Banks, 2906"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/barton-2600",
+        "text": "Barton, 2600"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/beard-2620",
+        "text": "Beard, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/belconnen-2617",
+        "text": "Belconnen, 2617"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/bonner-2914",
+        "text": "Bonner, 2914"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/bonython-2905",
+        "text": "Bonython, 2905"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/booth-2620",
+        "text": "Booth, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/braddon-2612",
+        "text": "Braddon, 2612"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/bruce-2617",
+        "text": "Bruce, 2617"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/calwell-2905",
+        "text": "Calwell, 2905"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/campbell-2612",
+        "text": "Campbell, 2612"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/canberra-2600",
+        "text": "Canberra, 2600"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/canberra-2601",
+        "text": "Canberra, 2601"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/canberra-airport-2609",
+        "text": "Canberra Airport, 2609"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/canberra-central-2601",
+        "text": "Canberra Central, 2601"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/canberra-city-2601",
+        "text": "Canberra City, 2601"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/capital-hill-2600",
+        "text": "Capital Hill, 2600"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/casey-2913",
+        "text": "Casey, 2913"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/chapman-2611",
+        "text": "Chapman, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/charnwood-2615",
+        "text": "Charnwood, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/chifley-2606",
+        "text": "Chifley, 2606"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/chisholm-2905",
+        "text": "Chisholm, 2905"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/city-2601",
+        "text": "City, 2601"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/conder-2906",
+        "text": "Conder, 2906"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/cook-2614",
+        "text": "Cook, 2614"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/coombs-2611",
+        "text": "Coombs, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/coree-2611",
+        "text": "Coree, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/cotter-river-2611",
+        "text": "Cotter River, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/crace-2911",
+        "text": "Crace, 2911"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/curtin-2605",
+        "text": "Curtin, 2605"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/deakin-2600",
+        "text": "Deakin, 2600"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/denman-prospect-2611",
+        "text": "Denman Prospect, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/dickson-2602",
+        "text": "Dickson, 2602"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/downer-2602",
+        "text": "Downer, 2602"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/duffy-2611",
+        "text": "Duffy, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/dunlop-2615",
+        "text": "Dunlop, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/evatt-2617",
+        "text": "Evatt, 2617"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/fadden-2904",
+        "text": "Fadden, 2904"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/farrer-2607",
+        "text": "Farrer, 2607"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/fisher-2611",
+        "text": "Fisher, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/florey-2615",
+        "text": "Florey, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/flynn-2615",
+        "text": "Flynn, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/forde-2914",
+        "text": "Forde, 2914"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/forrest-2603",
+        "text": "Forrest, 2603"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/franklin-2913",
+        "text": "Franklin, 2913"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/fraser-2615",
+        "text": "Fraser, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/fyshwick-2609",
+        "text": "Fyshwick, 2609"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/garran-2605",
+        "text": "Garran, 2605"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/gilmore-2905",
+        "text": "Gilmore, 2905"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/giralang-2617",
+        "text": "Giralang, 2617"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/gordon-2906",
+        "text": "Gordon, 2906"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/gowrie-2904",
+        "text": "Gowrie, 2904"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/greenway-2900",
+        "text": "Greenway, 2900"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/griffith-2603",
+        "text": "Griffith, 2603"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/gungahlin-2912",
+        "text": "Gungahlin, 2912"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/gungahlin-district-2912",
+        "text": "Gungahlin District, 2912"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/hackett-2602",
+        "text": "Hackett, 2602"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/hall-2618",
+        "text": "Hall, 2618"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/harman-2600",
+        "text": "Harman, 2600"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/harrison-2914",
+        "text": "Harrison, 2914"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/hawker-2614",
+        "text": "Hawker, 2614"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/higgins-2615",
+        "text": "Higgins, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/holder-2611",
+        "text": "Holder, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/holt-2615",
+        "text": "Holt, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/hughes-2605",
+        "text": "Hughes, 2605"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/hume-2620",
+        "text": "Hume, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/isaacs-2607",
+        "text": "Isaacs, 2607"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/isabella-plains-2905",
+        "text": "Isabella Plains, 2905"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/jacka-2914",
+        "text": "Jacka, 2914"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/jerrabomberra-2620",
+        "text": "Jerrabomberra, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/jervis-bay-2540",
+        "text": "Jervis Bay, 2540"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/kaleen-2617",
+        "text": "Kaleen, 2617"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/kambah-2902",
+        "text": "Kambah, 2902"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/kingston-2604",
+        "text": "Kingston, 2604"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/kowen-2620",
+        "text": "Kowen, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/latham-2615",
+        "text": "Latham, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/lawson-2617",
+        "text": "Lawson, 2617"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/lyneham-2602",
+        "text": "Lyneham, 2602"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/lyons-2606",
+        "text": "Lyons, 2606"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/macarthur-2904",
+        "text": "Macarthur, 2904"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/macgregor-2615",
+        "text": "Macgregor, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/macnamara-2615",
+        "text": "Macnamara, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/macquarie-2614",
+        "text": "Macquarie, 2614"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/majura-2609",
+        "text": "Majura, 2609"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/mawson-2607",
+        "text": "Mawson, 2607"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/mckellar-2617",
+        "text": "Mckellar, 2617"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/melba-2615",
+        "text": "Melba, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/mitchell-2911",
+        "text": "Mitchell, 2911"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/molonglo-valley-2617",
+        "text": "Molonglo Valley, 2617"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/monash-2904",
+        "text": "Monash, 2904"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/moncrieff-2914",
+        "text": "Moncrieff, 2914"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/narrabundah-2604",
+        "text": "Narrabundah, 2604"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/ngunnawal-2913",
+        "text": "Ngunnawal, 2913"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/nicholls-2913",
+        "text": "Nicholls, 2913"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/o'connor-2602",
+        "text": "O'Connor, 2602"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/o'malley-2606",
+        "text": "O'Malley, 2606"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/oaks-estate-2620",
+        "text": "Oaks Estate, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/oxley-2903",
+        "text": "Oxley, 2903"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/paddys-river-2620",
+        "text": "Paddys River, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/page-2614",
+        "text": "Page, 2614"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/palmerston-2913",
+        "text": "Palmerston, 2913"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/parkes-2600",
+        "text": "Parkes, 2600"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/pearce-2607",
+        "text": "Pearce, 2607"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/phillip-2606",
+        "text": "Phillip, 2606"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/pialligo-2609",
+        "text": "Pialligo, 2609"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/red-hill-2603",
+        "text": "Red Hill, 2603"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/reid-2612",
+        "text": "Reid, 2612"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/rendezvous-creek-2620",
+        "text": "Rendezvous Creek, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/richardson-2905",
+        "text": "Richardson, 2905"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/rivett-2611",
+        "text": "Rivett, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/russell-2600",
+        "text": "Russell, 2600"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/scullin-2614",
+        "text": "Scullin, 2614"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/spence-2615",
+        "text": "Spence, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/stirling-2611",
+        "text": "Stirling, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/strathnairn-2615",
+        "text": "Strathnairn, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/stromlo-2611",
+        "text": "Stromlo, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/symonston-2609",
+        "text": "Symonston, 2609"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/taylor-2913",
+        "text": "Taylor, 2913"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/tennent-2620",
+        "text": "Tennent, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/tharwa-2620",
+        "text": "Tharwa, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/theodore-2905",
+        "text": "Theodore, 2905"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/throsby-2914",
+        "text": "Throsby, 2914"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/torrens-2607",
+        "text": "Torrens, 2607"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/tuggeranong-2900",
+        "text": "Tuggeranong, 2900"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/turner-2612",
+        "text": "Turner, 2612"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/uriarra-village-2611",
+        "text": "Uriarra Village, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/wanniassa-2903",
+        "text": "Wanniassa, 2903"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/waramanga-2611",
+        "text": "Waramanga, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/watson-2602",
+        "text": "Watson, 2602"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/weetangera-2614",
+        "text": "Weetangera, 2614"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/weston-2611",
+        "text": "Weston, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/weston-creek-2611",
+        "text": "Weston Creek, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/whitlam-2611",
+        "text": "Whitlam, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/whitlam-2615",
+        "text": "Whitlam, 2615"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/williamsdale-2620",
+        "text": "Williamsdale, 2620"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/wright-2611",
+        "text": "Wright, 2611"
+    },
+    {
+        "href": "https://www.onthehouse.com.au/suburb/act/yarralumla-2600",
+        "text": "Yarralumla, 2600"
+    }
+]
